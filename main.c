@@ -41,7 +41,6 @@ int main() {
         }
     }
 
-    // Выводим
     printf("\nResult:\n");
     for (int i = 0; i < count; i++) {
         printf("%s ", words[i]);
