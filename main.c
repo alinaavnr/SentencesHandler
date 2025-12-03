@@ -22,7 +22,6 @@ int main() {
             }
 
         else if (pos > 0) {
-            word[pos] = '\0';
 
             int found = 0;
             for (int j = 0; j < count; j++) {
